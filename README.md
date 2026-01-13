@@ -1,4 +1,4 @@
-# 🇮🇳 CivicEase: Intelligent Citizen Profiling & Automated Benefit Application Agent
+# CivicEase: Intelligent Citizen Profiling & Automated Benefit Application Agent
 
 > **Bridging the gap between citizens and government benefits through AI-driven automation.**
 
