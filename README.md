@@ -56,3 +56,13 @@ Create a .env file in the root directory and add your HuggingFace API token:
 ```
 HUGGINGFACEHUB_API_TOKEN=your_token_here
 ```
+
+## 🔮 Future Scope
+* **Multilingual Voice Support:** Integration with OpenAI Whisper to allow illiterate users to conduct the entire interview via voice.
+
+* **DigiLocker Integration:** To fetch verified government documents directly via API.
+
+* **Mobile App:** A Flutter-based mobile interface for field workers in rural areas.
+
+### 📜 License
+This project is licensed under the MIT License - see the LICENSE file for details.
